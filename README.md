@@ -1,1 +1,1 @@
-# password-app
+# Password Manager App
